@@ -1,0 +1,23 @@
+{
+  "name": "cs-546-lab-6",
+  "version": "1.0.0",
+  "description": "Lab 6",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Brandon-Seidman/Lab6.git"
+  },
+  "author": "Brandon Seidman 10423626",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Brandon-Seidman/Lab6/issues"
+  },
+  "homepage": "https://github.com/Brandon-Seidman/Lab6#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongodb": "^3.6.2"
+  }
+}
